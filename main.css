@@ -1,0 +1,124 @@
+body{
+    font-size: 20px;
+    font-family:sans-serif ;
+}
+body{
+    background-color: aquamarine;
+}
+nav.flex{
+    display: flex;
+    border: 1px solid dashed black;
+}
+.sub1{
+    background-color: white;
+    color: black;
+    margin-left:35px;
+    margin-right: 35px;
+    padding-top:1rem;
+    min-width:40%;
+}
+.sub{
+    background-color: black;
+}
+
+table,tr,th,td,caption{
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+img{
+    padding-left: 250px;
+    border-radius: 40px;
+}
+video{
+    padding-left:180px;
+}
+h1{
+    color:black;
+    text-align:center;
+    background-color: burlywood;
+    height:3rem ;
+    margin-top: 0.5rem;
+    padding-top: 1rem;
+    margin-right: 5rem;
+    margin-left: 5rem;
+    border-radius: 20px;
+    
+    
+}h1{
+    color:black;
+    text-align:center;
+    background-color: burlywood;
+    height:3rem ;
+    margin-top: 0.5rem;
+    padding-top: 1rem;
+    margin-right: 5rem;
+    margin-left: 5rem;
+    border-radius: 20px;}
+ul{
+
+padding-left:1rem ;
+list-style-type:none;
+}
+li a{
+    display: block;
+    padding-left: 2rem;
+
+}
+li a,
+li a:visited{
+    text-decoration: none;
+    color: black;
+}
+li a:hover,
+li a:focus{
+    background-color: plum;
+    color :white;
+}
+#suma{
+    font-size: larger;
+}
+li{
+    padding-left: 0px;
+}
+main p a{
+text-decoration: none;
+color: black;
+background-color:lightblue;
+padding: 1rem;
+border-radius:20px ;
+
+}
+main p a:hover,
+main p a:focus{
+    background-color: plum;
+    color :white;
+
+}
+main p a.aone{
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
+main p a.atwo{
+    margin-right: 3rem;
+}
+main p a.athree{
+    margin-right: 3rem;
+}
+main p a.afour{
+    margin-right: 2rem;
+}
+    
+#link1{
+    color: black;
+    text-decoration: none;
+    background-color: lightblue;
+    padding: 0.8rem;
+    border-radius: 15px;
+    text-shadow: right 20px ,bottom 20px, black;
+}
+.flex{
+    background-color: blue;
+    padding: 200px;
+}
